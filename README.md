@@ -53,4 +53,6 @@ Router --> |LAN 3| PC3
 Router --> |LAN 4| Printer
 ```
 
+Imagen da topologia-usada neste laboratório:
+![topologia]
 # lab-redes-01
