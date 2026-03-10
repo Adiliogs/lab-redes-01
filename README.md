@@ -102,5 +102,6 @@ Este laboratório permitiu compreender o funcionamento de um rede local simples,
 - Utilização de um roteador com porta WAn e portas LAN
 - Funcionamento do DHCP
 - Comunicação entre dispositivos na rede local
+- Utilização de uma impressora em uma rede local
 - Compartilhamento de pasta na rede usando o Windows
-- Jogos em rede
+
