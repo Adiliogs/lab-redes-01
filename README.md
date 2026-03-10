@@ -78,23 +78,9 @@ Gatway: 192.168.0.1
 - A impresspra e um dos notebooks utlizam reserva DHCP.
 - O roteador sempre atribui o mesmo endereço IP a esses dispositivos.
 
-  
-
-## 5. Implementação do laboratório real
-
-Após a instalação, a rede foi montada fisicamente no laboratório
-
-Etapas realizadas:
-
-(fotos e capturas de tela realizadas durante o laboratório)
-
-Testes:
-
-(fotos e capturas de tela realizadas durante o laboratório)
-
 ---
 
-## 6. Conclusão
+## 5. Conclusão
 
 Este laboratório permitiu compreender o funcionamento de um rede local simples, incluindo:
 
