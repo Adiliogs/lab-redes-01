@@ -78,7 +78,7 @@ Gatway: 192.168.0.1
 - A impresspra e um dos notebooks utlizam reserva DHCP.
 - O roteador sempre atribui o mesmo endereço IP a esses dispositivos.
 
-- 
+  
 
 ## 5. Implementação do laboratório real
 
